@@ -42,13 +42,13 @@ Dhairyash Gupta</a>
 
 
 <p align="left">
-    <a href="[https://www.linkedin.com/in/dhairyashgupta/]">
+    <a href="https://www.linkedin.com/in/dhairyashgupta/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
     </a>
     <a href="https://twitter.com/DhairyashGupta">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
     </a>
-    <a href="[https://dhairyashgupta.me/]">
+    <a href="https://dhairyashgupta.me/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
     </a>
     <a title="dhairyashgupta12@gmail.com" href="mailto:dhairyashgupta12@gmail.com">
