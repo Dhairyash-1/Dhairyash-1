@@ -3,13 +3,10 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
    , I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Dhairyash Gupta</a>
-    <img 
-</h1>
-
-<br>
     
- <h2> About Me</h2>
-
+</h1>
+  
+ <h2> About Me</h2>  
 - 🔭 I’m currently working on  Personal and Freelance Projects
   
 - 🌱 I’m currently learning Nodejs, Expressjs, MongoDB
@@ -49,29 +46,6 @@ Dhairyash Gupta</a>
 
 <br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Dhairyash-1/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhairyash-1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-  
   
   <h2>Let's Connect</h2>
 
@@ -91,4 +65,16 @@ Dhairyash Gupta</a>
     </a>
 </p>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyash-1&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyash-1" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairyash-1&show_icons=true&locale=en&layout=compact" alt="dhairyash-1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyash-1&show_icons=true&locale=en" alt="dhairyash-1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyash-1&" alt="dhairyash-1" /></p>
+
   
