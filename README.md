@@ -6,7 +6,8 @@ Dhairyash Gupta</a>
     
 </h1>
   
- <h2> About Me</h2>  
+ <h2> About Me</h2> 
+ 
 - 🔭 I’m currently working on  Personal and Freelance Projects
   
 - 🌱 I’m currently learning Nodejs, Expressjs, MongoDB
@@ -18,11 +19,12 @@ Dhairyash Gupta</a>
 - 👯 I’m looking to collaborate on Frontend Projects
     
 - 👨‍💻 Check out my personal portfolio - 👉 **<a href="https://dhairyashgupta.me/" target="_blank">Portfolio</a>**
+<br>
     
 
   
 
-  
+  -----
 
     
     
