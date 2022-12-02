@@ -8,6 +8,26 @@ Dhairyash Gupta</a>
 
 <br>
     
+ <h2> About Me</h2>
+
+- 🔭 I’m currently working on  Personal and Freelance Projects
+  
+- 🌱 I’m currently learning Nodejs, Expressjs, MongoDB
+    
+- 💬 Ask me about JavaScript, ReactJs ,Tailwind CSS
+    
+ - 📫 How to reach me **dhairyashgupta12@gmail.com**
+  
+- 👯 I’m looking to collaborate on Frontend Projects
+    
+- 👨‍💻 Check out my personal portfolio - 👉 **<a href="https://dhairyashgupta.me/" target="_blank">Portfolio</a>**
+    
+
+  
+
+  
+
+    
     
 <h2>Tech Stack</h2>
 
