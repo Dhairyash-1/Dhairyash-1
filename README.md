@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi There
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-   , I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+   , I'm <a href="https://dhairyashgupta.me/" target="blank">
 Dhairyash Gupta</a>
     
 </h1>
