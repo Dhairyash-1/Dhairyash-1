@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
     Hi There
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
    , I'm <a href="https://dhairyashgupta.me/" target="blank">
@@ -80,3 +80,4 @@ Dhairyash Gupta</a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyash-1&" alt="dhairyash-1" /></p>
 
   
+ -->
