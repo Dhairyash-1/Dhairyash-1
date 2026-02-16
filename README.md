@@ -15,7 +15,7 @@
   
 - 👯 I’m looking to collaborate on web Projects
     
-- 👨‍💻 Check out my personal portfolio - 👉 **<a href="https://dhairyashgupta.me/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio - 👉 **<a href="https://dhairyashgupta.com/" target="_blank">Portfolio</a>**
 <br>
     
 
